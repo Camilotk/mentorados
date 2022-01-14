@@ -1,4 +1,4 @@
-## Lista de Mentorandos
+# Lista de Mentorandos
 
 <!--
 #### Camilo Cunha de Azevedo
