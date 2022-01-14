@@ -24,7 +24,7 @@ Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver
 
 
 #### Tiago Vieira
-<img src="./imagens/gustavo.jpg" width="150"/>
+<img src="./imagens/tiago.jpeg" width="150"/>
 
 **Cidade**: Bento Gonçalves ||
 **Link Github**: [Link](https://github.com/SttavoS)
