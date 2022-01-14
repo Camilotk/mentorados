@@ -27,7 +27,7 @@ Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver
 <img src="./imagens/tiago.jpeg" width="150"/>
 
 **Cidade**: Bento Gonçalves ||
-**Link Github**: [Link](https://github.com/SttavoS)
+**Link Github**: [Link](https://github.com/tgvieirabr)
 
 ## Turma 2
 
