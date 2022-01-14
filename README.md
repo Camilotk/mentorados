@@ -15,7 +15,7 @@ Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver
 -->
 
 #### Gustavo Schneider
-<img src="https://avatars.githubusercontent.com/u/59072856?s=400&u=fc10cb8582e6c27670c609c6c2b19a40f0526f46&v=4" width="150"/>
+<img src="./imagens/gustavo.jpg" width="150"/>
 
 **Idade**: 22 anos ||
 **Cidade**: Bento Gonçalves ||
