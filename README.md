@@ -20,7 +20,7 @@ Eu tenho aprendido muito com as mentorias do Meetanços e tem sido muito bom ver
 <img src="./imagens/alexsandro.jpeg" width="150"/>
 
 **Cidade**: Bento Gonçalves ||
-**Link Github**: [Link](https://github.com/SttavoS)
+**Link Github**: [Link](https://github.com/AlexsandroFrizon)
 
 
 #### Tiago Vieira
