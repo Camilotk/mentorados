@@ -27,7 +27,7 @@ Eu espero ser um desenvolvedor/engenheiro de software competente. Mas para isso 
 ---
 
 #### Matheus Nunes Sena
-<img src="https://avatars.githubusercontent.com/u/32408957?s=400&u=6492206d6484686893ac44ec3d95c395290e47f6&v=4" width="150"/>
+<img src="./imagens/matheus.jpeg" width="150"/>
 
 **Idade**: 23 anos ||
 **Cidade**: Cachoeirinha ||
